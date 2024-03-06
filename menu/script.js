@@ -36,7 +36,7 @@ function getDate(){
     }else if(month === "Sep"){
         month = "September";
     }else if(month === "Oct"){
-        month = "October";
+        month = "October"; 
     }else if(month === "Nov"){
         month = "November";
     }else if(month === "Dec"){

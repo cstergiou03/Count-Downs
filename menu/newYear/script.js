@@ -3,7 +3,7 @@ const hourHead = document.getElementById("hours")
 const minHead = document.getElementById("minutes")
 const secondHead = document.getElementById("seconds")
 
-const newYear  = "1 Jan 2024"
+const newYear  = "1 Jan 2025"
 
 function getDate(){
     const newYearsDate = new Date(newYear); 

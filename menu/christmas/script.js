@@ -3,7 +3,7 @@ const hourHead = document.getElementById("hours")
 const minHead = document.getElementById("minutes")
 const secondHead = document.getElementById("seconds")
 
-const christmas  = "25 Dec 2023"
+const christmas  = "25 Dec 2024"
 
 function getDate(){
     const christmasdate = new Date(christmas); 
